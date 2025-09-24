@@ -25,5 +25,4 @@ It classifies emails as **Spam** or **Not Spam** based on textual features.
 - Add more advanced preprocessing (like lemmatization).
 - Build a dashboard for results.
 
-## 📧 Author
-- Your Name (B.Tech AI & DS Student)
+
